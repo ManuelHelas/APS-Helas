@@ -1,0 +1,20 @@
+Correcciones de las TSs
+* TS1: Análisis de Señales
+
+    * Pasar el texto del Notebook por un corrector.
+    * Los gráficos del espectro de la señal están mal etiquetados.
+    * Falta una conclusión general aunque sea mínima.
+
+* TS3: Desparramo Espectral
+
+    * No hay introducción.
+    * Pasar el texto del Notebook por un corrector.
+    * Los gráficos tienen mal las etiquetas. En el eje vertical ponés Potencia, eso no es correcto. En el 
+      eje horizontal ponés Bin de Frecuencia (k) pero los valores tienen decimales (ceros, pero decimales), 
+      si indicás que son valores de k son enteros (sin decimales), si hubieses puesto Frecuencia en Hz estaba
+      bien; esto último es un error menor, pero cabe aclararlo.
+    * Tenés que tratar de seguir el formato introducción, desarrollo, conclusión. Dividilo en secciones.
+    * Lo siguiente que pusiste está mal: "Ahora porque la campana llega hasta 0,5 pero tiene mas valores 
+      distintos de 0. Esta es una de las propiedades del 0 padding, al final estamos agregando 9000 muestras 
+      mas para poder ver con mas detalle el espectro pero esto genera que calculando la potencia como se puede 
+      ver esta nos da 10 veces mayor debido a que tenemos 10 veces mas muestras."
