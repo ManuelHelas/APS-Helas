@@ -18,3 +18,15 @@ Correcciones de las TSs
       distintos de 0. Esta es una de las propiedades del 0 padding, al final estamos agregando 9000 muestras 
       mas para poder ver con mas detalle el espectro pero esto genera que calculando la potencia como se puede 
       ver esta nos da 10 veces mayor debido a que tenemos 10 veces mas muestras."
+
+* TS4: Estimadores
+
+    * No hay introducción.
+    * El desarrollo del Notebook no sigue la lógica que se espera. El Notebook se usa para explicar el trabajo 
+      que hiciste en tu código de python. Uno espera segmentos de código con la respectiva explicación. Esta
+      explicación no debe ir en la conclusión. En la conclusión va algún análisis más general de todo el trabajo.
+    * El histograma para la estimación de la amplitud no está bien. Me parece que cambiaste el estimador. Hay que 
+      revisar el código.
+    * En el eje vertical de los gráficos dice cantidad de realizaciones, eso no es correcto. 
+    * Hay errores de edición y falta de ortografía. 
+    * La conclusión  
