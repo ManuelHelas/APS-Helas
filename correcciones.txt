@@ -29,4 +29,8 @@ Correcciones de las TSs
       revisar el código.
     * En el eje vertical de los gráficos dice cantidad de realizaciones, eso no es correcto. 
     * Hay errores de edición y falta de ortografía. 
-    * La conclusión  
+    * La conclusión
+
+* TS4: Estimación Espectral
+
+    * 
